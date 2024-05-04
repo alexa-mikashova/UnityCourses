@@ -118,5 +118,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a4ac7154fb897994eb576b27aeb941e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sphere: {fileID: 5047838143291426854}
-  speed: 4
+  TargetTime: 3
